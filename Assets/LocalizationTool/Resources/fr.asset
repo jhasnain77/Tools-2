@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fdf265e4e281c2439f14bfed6a6cc6a, type: 3}
+  m_Name: fr
+  m_EditorClassIdentifier: 
+  fields:
+  - "D\xE9but"
+  - Change Langue
+  - Prochain
+  - "(???): All\xF4, est-ce que \xE7a va?"
+  - '(Miyu): ...Quoi?'
+  - "(???): Tu te dormi au milieu du for\xEAt et tu te sens blesser."
+  - '(Miyu): Oh... Oui, je suis d''accord, je pense.'
+  - '(Miyu): Qui es-tu?'
+  - '(Meili): Moi? Je m''appelle Meili! J''habite au ville proche d''ici! Et toi?'
+  - "(Miyu): Enchant\xE9 de faire votre connaissance! Je pense que... je m'appelle
+    Miyu?"
+  - '(Meili): Tu pense?'
+  - "(Miyu): Je ne me souviens pas. O\xF9 sommes-nous?"
+  - "(Meili): Amn\xE9sie? De toute fa\xE7on, cela c'est le for\xEAt de Delphi, sur
+    let continent de Teien!"
+  - Fin du taquin
+  - "Projet Spectre: Prologue - Bient\xF4t Disponible"
+  - "Langue Actuel: Fran\xE7ais"
